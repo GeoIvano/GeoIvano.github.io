@@ -13,13 +13,17 @@ body {
     background-image: url("../img/fireworks.jpg");
 }
 
-
-/* 
 @media screen and (max-width:400px) {
     .wrapper {
         width: 100%;
     }
-} */
+    img {
+        max-width: 80%;
+    }
+    .button {
+        min-width: 60%;
+    }
+}
 
 .button {
     border-radius: 1em;
