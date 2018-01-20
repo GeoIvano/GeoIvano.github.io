@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+}
+
+.wrapper {
+    background-image: url("../img/grass.jpg");
+    width: 90%;
+    margin: 1em auto;
+    padding-bottom: 1em;
+}
+
+.wr {
+    background-image: url("../img/fireworks.jpg");
+}
+
+
+/* 
+@media screen and (max-width:400px) {
+    .wrapper {
+        width: 100%;
+    }
+} */
+
+.button {
+    border-radius: 1em;
+    background-color: whitesmoke;
+    color: rgb(47, 28, 156);
+    margin: 0.2em auto;
+    border: .2em solid rgb(3, 1, 10);
+    text-align: center;
+    font-weight: bolder;
+    width: 30%;
+    font-size: 3em;
+    cursor: pointer;
+}
+
+#cup {
+    margin: 0.4em auto;
+    padding-top: 0.1em;
+}
+
+#cup>img {
+    display: block;
+    margin: auto;
+    margin-top: 1em;
+    margin-bottom: .5em;
+}
+
+.wish {
+    border-radius: 0.3em;
+    color: rgb(179, 53, 137);
+    font-size: 2em;
+    text-align: center;
+    font-weight: bolder;
+    width: 80%;
+    border: orchid solid 0.3em;
+}
