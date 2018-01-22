@@ -37,6 +37,7 @@ body {
     width: 30%;
     font-size: 3em;
     cursor: pointer;
+    padding: .1em;
 }
 
 #cup {
