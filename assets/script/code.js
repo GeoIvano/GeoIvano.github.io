@@ -1,6 +1,6 @@
 $(".button").on("click", function() {
-    $(".wrapper").hide().addClass("wr").fadeIn(2500)
-    $("#cup>img").hide().attr("src", "assets/img/cake.jpg").fadeIn(2500)
+    $(".wrapper").hide().addClass("wr").fadeIn(3000)
+    $("#cup>img").hide().attr("src", "assets/img/cake.jpg").fadeIn(3000)
     $(".button").hide().text('Честит рожден ден Меги. Мн здраве, щастие, успешно построени сгради и сбъднати мечти и цели.')
-        .addClass("wish").fadeIn(2500)
+        .addClass("wish").fadeIn(3000)
 });
