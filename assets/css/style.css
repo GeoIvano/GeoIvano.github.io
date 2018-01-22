@@ -63,4 +63,5 @@ body {
     font-weight: bolder;
     width: 65%;
     border: orchid solid 0.3em;
+    cursor: initial;
 }
